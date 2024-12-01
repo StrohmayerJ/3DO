@@ -9,7 +9,7 @@ BibTeX:
   title={On the Generalization of WiFi-based Person-centric Sensing in Through-Wall Scenarios},
   author={Strohmayer, Julian and Kampel, Martin},
   booktitle={International Conference on Pattern Recognition},
-  pages={},
+  pages={194-211},
   year={2024},
   organization={Springer}
 }
