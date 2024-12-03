@@ -1,17 +1,19 @@
 # PyTorch Dataloader for the 3DO Dataset
 
 ### Paper
-**Strohmayer J., and Kampel M.** (2024), “On the Generalization of WiFi-based Person-centric Sensing in Through-Wall Scenarios”, International Conference on Pattern Recognition (ICPR), December 2024, Kolkata, India. doi: https://doi.org/10.1007/978-3-031-78354-8_13
+**Strohmayer, J., Kampel, M.** (2025). On the Generalization of WiFi-Based Person-Centric Sensing in Through-Wall Scenarios. In: Pattern Recognition. ICPR 2024. Lecture Notes in Computer Science, vol 15315. Springer, Cham. https://doi.org/10.1007/978-3-031-78354-8_13
 
 BibTeX:
 ```
-@inproceedings{strohmayerOn2024,
-  title={On the Generalization of WiFi-based Person-centric Sensing in Through-Wall Scenarios},
-  author={Strohmayer, Julian and Kampel, Martin},
-  booktitle={International Conference on Pattern Recognition},
-  pages={194-211},
-  year={2024},
-  organization={Springer}
+@inproceedings{strohmayerOn2025,
+  author="Strohmayer, Julian and Kampel, Martin",
+  title="On the Generalization of WiFi-Based Person-Centric Sensing in Through-Wall Scenarios",
+  booktitle="Pattern Recognition",
+  year="2025",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="194--211",
+  isbn="978-3-031-78354-8"
 }
 ```
 ### WiFi System
