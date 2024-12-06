@@ -4,7 +4,7 @@
 **Strohmayer, J., Kampel, M.** (2025). On the Generalization of WiFi-Based Person-Centric Sensing in Through-Wall Scenarios. In: Pattern Recognition. ICPR 2024. Lecture Notes in Computer Science, vol 15315. Springer, Cham. https://doi.org/10.1007/978-3-031-78354-8_13
 
 BibTeX:
-```
+```BibTeX
 @inproceedings{strohmayerOn2025,
   author="Strohmayer, Julian and Kampel, Martin",
   title="On the Generalization of WiFi-Based Person-Centric Sensing in Through-Wall Scenarios",
